@@ -29,4 +29,5 @@ Install required packages with the following command:
 ```bash
 pip install qiskit numpy scipy librosa matplotlib sounddevice
 ```
-[Link Text](URL)
+The theory can be understood from here :
+[https://rohan-biswas-portfolio.vercel.app/Writeups/qpam.pdf](https://rohan-biswas-portfolio.vercel.app/Writeups/qpam.pdf)
